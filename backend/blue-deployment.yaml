@@ -34,4 +34,4 @@ spec:
         image: rajavamshi007/backend:1.0.0   
         envFrom:
         - configMapRef: 
-            name: backend      
+          name: backend      
