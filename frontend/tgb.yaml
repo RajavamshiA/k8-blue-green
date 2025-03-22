@@ -7,4 +7,4 @@ spec:
     name: frontend # route traffic to the awesome-service
     port: 80
   targetGroupARN: arn:aws:elasticloadbalancing:us-east-1:535002874398:targetgroup/expense-dev/de8790f7fbf76a62
-  
+  targetType: ip
